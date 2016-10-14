@@ -1,0 +1,11 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "y_combinator_practice.js",
+  "scripts": {
+    "test": "node y_combinator_practice.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
